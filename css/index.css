@@ -1,0 +1,50 @@
+*{margin: 0;padding: 0;}
+.top{
+    height: 60px;
+    background: #E0FFFF;
+    text-align: center;
+    line-height: 60px;
+    color: #333;
+}
+body{
+    background-color: #F0F8FF;
+}
+
+.container{
+    background-image: url(../images/timg2.jpg);
+    margin-left: auto;
+    margin-right: auto;
+    width: 422px;
+    padding: 10px;
+}
+.text{
+    margin-top: 13px;
+    margin-left: 12px;
+    width: 283px;
+    height: 32px;
+}
+.btn{
+    margin-left: 7px;
+    background-color: #7FFFD4;
+    height: 32px;
+    width: 99px;
+}
+.title2{
+    margin-top: 25px;
+    margin-left: 44px;
+    margin-bottom: 13px;
+    color: #00BFFF;
+}
+img{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    height: 250px;
+    width: 401px;
+}
+p{
+    color: #333;
+    padding: 10px;
+}
+p:hover{
+    color:tomato;
+}
